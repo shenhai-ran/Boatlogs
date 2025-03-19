@@ -1,0 +1,14 @@
+# Section information
+sections:
+  - name: home # Home section
+    enable: true
+    weight: 1
+  - name: about # About section
+    enable: true
+    weight: 2
+  - name: recent-posts # Recent posts section
+    enable: true
+    weight: 3
+  - name: contact # Contact section
+    enable: false
+    weight: 4

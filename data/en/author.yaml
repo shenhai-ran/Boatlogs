@@ -1,0 +1,57 @@
+# Your name
+name: Shenhai Ran
+
+# Your profile picture
+image: images/author/profile.jpg
+
+# Your resume. This file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# A summary of your experiences and achievements
+summary: "Passionate writer, explorer, and blogger sharing insights about life's journey."
+
+# Your social links
+socialLinks:
+  # - name: Email
+  #   icon: "fas fa-envelope"
+  #   url: "mailto:example@example.com"
+
+  # - name: Github
+  #   icon: "fab fa-github"
+  #   url: "https://github.com/username"
+
+  # - name: LinkedIn
+  #   icon: "fab fa-linkedin"
+  #   url: "https://linkedin.com/in/username"
+
+  # - name: Twitter
+  #   icon: "fab fa-twitter"
+  #   url: "https://twitter.com/username"
+
+# Your professional experiences
+experiences:
+  - designation: Blogger
+    company:
+      name: Boatlogs
+      url: "https://boatlogs.pages.dev"
+    start: "2025"
+    responsibilities:
+      - Writing personal stories and insights
+      - Sharing life experiences
+      - Exploring the journey of life through blogging
+
+# Your education background
+educations:
+  - institution: "University"
+    degree: "Bachelor's Degree"
+    start: "2018"
+    end: "2022"
+
+# Your hobbies
+hobbies:
+  - name: Writing
+    icon: "fas fa-pen-fancy"
+  - name: Photography
+    icon: "fas fa-camera-retro"
+  - name: Traveling
+    icon: "fas fa-plane-departure"

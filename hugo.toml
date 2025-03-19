@@ -1,0 +1,102 @@
+baseURL = 'https://boatlogs.pages.dev/'
+languageCode = 'en-us'
+title = 'Boat • logs'
+theme = 'PaperMod'
+
+# Enable emoji rendering
+enableEmoji = true
+
+# Site parameters
+[params]
+  description = "Life is Like a Boat - Personal Blog by Shenhai Ran"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+  
+  # Profile mode settings
+  [params.profileMode]
+    enabled = true
+    title = "Boat • logs"
+    subtitle = "Life is Like a Boat"
+    imageUrl = "images/author/profile.jpg"
+    imageTitle = "Shenhai Ran"
+    
+    [[params.profileMode.buttons]]
+      name = "Blog Posts"
+      url = "posts"
+      
+    [[params.profileMode.buttons]]
+      name = "About Me"
+      url = "about"
+  
+  # Home info mode (alternative to profile mode)
+  [params.homeInfoParams]
+    Title = "Boat • logs - Life is Like a Boat"
+    Content = "Welcome to my personal blog where I share my journey through life's ocean of experiences."
+  
+  # Social icons
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:example@example.com"
+    
+  # Site cover image for home page
+  [params.cover]
+    linkFullImages = true
+    
+    [params.cover.params]
+      # background image on cover page
+      background = "images/site/background.jpg"
+  
+  # For search functionality (optional)
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# Menu items
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Search"
+    url = "/search"
+    weight = 4
+
+# Enable search functionality
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    noClasses = false
+    tabWidth = 2
+
+# Enable site taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"

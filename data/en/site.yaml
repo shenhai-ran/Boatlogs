@@ -1,0 +1,13 @@
+# Copyright notice
+copyright: © 2025 Copyright.
+
+# Meta description for your site
+description: Boatlogs - Life is Like a Boat - Personal Blog by Shenhai Ran
+
+# Specify OpenGraph information
+openGraph:
+  title: Boatlogs
+  type: website
+  description: Life is Like a Boat - Personal Blog by Shenhai Ran
+  image: images/author/profile.jpg
+  url: https://boatlogs.pages.dev/

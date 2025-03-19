@@ -1,0 +1,21 @@
+# Banner information
+banner:
+  title: "Boatlogs"
+  subtitle: "Life is Like a Boat"
+  content: "Join me on a journey through the waves of life, as I share experiences, thoughts, and stories."
+  image: "images/site/hero.jpg"
+  button:
+    enable: true
+    name: "Read My Blog"
+    url: "/posts"
+
+# List of featured posts
+featuredPosts:
+  enable: true
+  title: "Featured Posts"
+  cards:
+    - title: "Welcome to Boatlogs"
+      image: "images/blog/welcome-post.jpg"
+      content: "My first post welcoming readers to my personal journey through life."
+      badge: "New"
+      url: "/posts/welcome-to-boatlogs/"
