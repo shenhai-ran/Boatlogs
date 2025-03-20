@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Boat • logs"
+title: "Welcome to Boat/-Logs"
 date: 2025-03-19T12:54:00+01:00
 hero: "/images/blog/welcome-post.jpg"
 description: "Setting up a blog entirely through AI prompts using Windsurf editor and MCP servers"
@@ -7,9 +7,9 @@ tags: ["AI", "Windsurf", "MCP", "Hugo", "Cloudflare"]
 categories: ["Technology"]
 ---
 
-# Welcome to Boat • logs
+# Welcome to Boat/-Logs
 
-Hello and welcome to **Boat • logs**, a site that demonstrates the capabilities of AI-powered development tools. This entire website was created using only prompts to AI systems within the Windsurf editor and MCP servers from Cline extensions.
+Hello and welcome to **Boat/-Logs**, a site that demonstrates the capabilities of AI-powered development tools. This entire website was created using only prompts to AI systems within the Windsurf editor and MCP servers from Cline extensions.
 
 ## Purpose of This Website
 
@@ -41,7 +41,7 @@ In this blog, I'll document:
 
 I'll also be creating the first few posts solely through prompts to see how far we can push these AI capabilities.
 
-## The Name "Boat • logs"
+## The Name "Boat/-Logs"
 
 The name has a dual meaning:
 - Traditional ship's logs that record a journey

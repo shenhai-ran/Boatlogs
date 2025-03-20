@@ -1,6 +1,6 @@
 baseURL = 'https://boatlogs.pages.dev/'
 languageCode = 'en-us'
-title = 'Boat • logs'
+title = 'Boat/-Logs'
 theme = 'PaperMod'
 
 # Enable emoji rendering
@@ -21,7 +21,7 @@ enableEmoji = true
   # Profile mode settings
   [params.profileMode]
     enabled = true
-    title = "Boat • logs"
+    title = "Boat/-Logs"
     subtitle = "Life is Like a Boat"
     imageUrl = "images/author/profile.jpg"
     imageTitle = "Shenhai Ran"
@@ -36,13 +36,13 @@ enableEmoji = true
   
   # Home info mode (alternative to profile mode)
   [params.homeInfoParams]
-    Title = "Boat • logs - Life is Like a Boat"
+    Title = "Boat/-Logs - Life is Like a Boat"
     Content = "Welcome to my personal blog where I share my journey through life's ocean of experiences."
   
   # Social icons
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:example@example.com"
+    url = "mailto:ranshenhai@gmail.com"
     
   # Site cover image for home page
   [params.cover]

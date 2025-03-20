@@ -1,17 +1,17 @@
 ---
 title: "About Me"
 date: 2025-03-19T09:45:00+01:00
-description: "About Shenhai Ran, the author of Boatlogs"
+description: "About Shenhai Ran, the author of Boat/-Logs"
 draft: false
 ---
 
 # About Me
 
-Hello, I'm **Shenhai Ran**, the author behind Boatlogs.
+Hello, I'm **Shenhai Ran**, the author behind Boat/-Logs.
 
 ## My Story
 
-I created this blog as a personal space to document my journey through life, share my experiences, and connect with others who might find resonance in my stories. The name "Boatlogs" and the slogan "Life is Like a Boat" reflect my philosophy that life is a journey across sometimes calm, sometimes turbulent waters, but always moving forward.
+I created this blog as a personal space to document my journey through life, share my experiences, and connect with others who might find resonance in my stories. The name "Boat/-Logs" and the slogan "Life is Like a Boat" reflect my philosophy that life is a journey across sometimes calm, sometimes turbulent waters, but always moving forward.
 
 ## What I Write About
 
