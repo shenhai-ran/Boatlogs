@@ -3,7 +3,7 @@ title: "Welcome to Boat/-Logs"
 date: 2025-03-19T12:54:00+01:00
 hero: "/images/blog/welcome-post.jpg"
 description: "Setting up a blog entirely through AI prompts using Windsurf editor and MCP servers"
-tags: ["AI", "Windsurf", "MCP", "Hugo", "Cloudflare"]
+tags: ["AI", "Windsurf", "MCP", "Hugo", "Cloudflare", "AI Generated"]
 categories: ["Technology"]
 ---
 
