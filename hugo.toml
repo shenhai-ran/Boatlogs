@@ -23,7 +23,9 @@ enableEmoji = true
     enabled = true
     title = "Boat/-Logs"
     subtitle = "Life is Like a Boat"
-    imageUrl = "images/author/profile.jpg"
+    imageUrl = "/images/author/profile.jpg"
+    imageWidth = 200
+    imageHeight = 200
     imageTitle = "Shenhai Ran"
     
     [[params.profileMode.buttons]]
